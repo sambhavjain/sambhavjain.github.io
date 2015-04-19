@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sambhav Jain | Designer</title>
+    <link rel="stylesheet" href="normalize.css">
+ 		<link href='http://fonts.googleapis.com/css?family=Changa+One' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="responsive.css">  
+    <link rel="stylesheet" href="main.css">
+   
+	<meta name="viewport" content="width=device-width,initial-scale=1.0"> 	
+  </head>
+  <body>
+    <header>
+      <a href="index.html" id="#logo">
+        <h1>Sambhav Jain</h1>
+        <h2>Designer</h2>
+      </a>
+      <nav class>
+        <ul>
+          <li><a href="index.html" style="text-decoration:none;">Portfolio</a></li>
+          <li><a href="about.html" class="selected">About</a></li>
+          <li><a href="contact.html" style="text-decoration:none;">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="wrapper">
+    <section >
+      <img src="img/mypic.jpg" alt="Profile Photo" class="profile-photo">
+			<h3>About</h3>      	
+      	<p>Hi m Sambhav computer science student,having a keen interest in web designing and development</p>
+			<p>If you'd like to follow  me .This is my twitter <a href="https://twitter.com/techsamy_jain">@techsamy_jain</a> link</p>    
+    </section> 
+    <footer id="logo">
+    	<a href="https://twitter.com/techsamy_jain"><img src="img/twitter-wrap.png" alt="Twitter logo" class="social-icon"></a>
+      <a href="https://facebook.com/sambhav.jain.9081"><img src="img/facebook-wrap.png" alt="Facebook logo" class="social-icon"></a>
+
+      <p>&copy; 2014 Sambhav Jain.</p>
+    </footer>
+	</div>  
+  </body>
+</html>
